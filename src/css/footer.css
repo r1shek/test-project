@@ -1,0 +1,12 @@
+.block-1 {
+    display: flex;
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+.block-2 {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+}
