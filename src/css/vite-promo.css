@@ -1,0 +1,18 @@
+.bg-img {
+  width: 120px;
+  height: 120px;
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-img.bg1 {
+  background-image: url(../img/vite-logo.png);
+}
+
+.bg-img.bg2 {
+  background-image: url(./img/vite-logo.png);
+}
+
+.bg-img.bg3 {
+  background-image: url(/img/vite-logo.png);
+}
